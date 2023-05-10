@@ -1,3 +1,14 @@
 langchain
 openai
+geocoder
+geopy
 streamlit
+streamlit_folium
+pinecone-client
+tiktoken
+pyyaml
+folium
+requests
+nltk
+streamlit_leaflet
+pydeck
